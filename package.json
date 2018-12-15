@@ -4,11 +4,11 @@
   "version": "0.0.0",
   "description": "The Flare package hierarchy.",
   "keywords": ["datasets"],
-  "homepage": "https://github.com/observablehq/datasets/tree/master/flare",
-  "repository": "https://github.com/observablehq/datasets/tree/master/flare",
+  "homepage": "https://github.com/BlackOwlW/CMDB_Visualizer/blob/master/",
+  "repository": "https://github.com/BlackOwlW/CMDB_Visualizer/blob/master/",
   "license": "ISC",
   "author": {
-    "name": "Mike Bostock",
-    "url": "https://bost.ocks.org/mike"
+    "name": "Black Owl W",
+    "url": "https://nothung.com"
   }
 }
